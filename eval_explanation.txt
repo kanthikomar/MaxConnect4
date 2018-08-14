@@ -1,0 +1,10 @@
+1.the eval funcation is simple fucntion which generates utility value
+for the chance of winning of the player by calculating the difference of scores between each player.
+2.utility value is returned to min max function which comapres it with the best value and 
+the decision is made which includes the best action for an optimal move.
+3. This enahances the decision making ability of the computer and reduces the time taken oneach decision.
+
+
+References: Wikipidea
+	    stackoverflow	
+ 

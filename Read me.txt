@@ -1,0 +1,23 @@
+Name: Kanthi Sannappa Komar
+UTA ID: 1001529656
+Code Structure:
+The code implements minmax algorithm with alpha beata pruning and it is depth limited.
+The code builds the tree according to the input and the depth mentioned and 
+runs aplha beta pruning to get an optiimal move against its oponent and makes it moves.
+
+Language Used:
+python 2.4
+
+Compliation instruction:
+(for one move mode)
+python maxconnect4.py one-move input1.txt output1.txt 10
+
+(for interactive mode)
+python maxconnect4.py interactive input2.txt computer-next 5
+
+
+Participation in the tournament: NO
+
+References: Wikipidea website
+	    stackoverflow website
+	    Text book.
